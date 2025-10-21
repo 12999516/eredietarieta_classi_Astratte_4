@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4\\es\\es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|solutionrelative:es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4\\es\\es\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|solutionrelative:es\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4\\es\\es\\cregistrazioneaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|solutionrelative:es\\cregistrazioneaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4\\es\\es\\cfilmato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|solutionrelative:es\\cfilmato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|c:\\users\\sebas\\desktop\\classi_astratte_interfaccie_4\\es\\es\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE2C7A-2475-4897-96C0-4232B4C67030}|es\\es.csproj|solutionrelative:es\\celementomultimediale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CFilmato.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CFilmato.cs",
+              "RelativeDocumentMoniker": "es\\CFilmato.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CFilmato.cs",
+              "RelativeToolTip": "es\\CFilmato.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:27:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRegistrazioneAudio.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CRegistrazioneAudio.cs",
+              "RelativeDocumentMoniker": "es\\CRegistrazioneAudio.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CRegistrazioneAudio.cs",
+              "RelativeToolTip": "es\\CRegistrazioneAudio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:28:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CImmagine.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CImmagine.cs",
+              "RelativeDocumentMoniker": "es\\CImmagine.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CImmagine.cs",
+              "RelativeToolTip": "es\\CImmagine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:27:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\Program.cs",
+              "RelativeDocumentMoniker": "es\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\Program.cs",
+              "RelativeToolTip": "es\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:18:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CElementoMultimediale.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CElementoMultimediale.cs",
+              "RelativeDocumentMoniker": "es\\CElementoMultimediale.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\classi_Astratte_interfaccie_4\\es\\es\\CElementoMultimediale.cs",
+              "RelativeToolTip": "es\\CElementoMultimediale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:26:25.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
